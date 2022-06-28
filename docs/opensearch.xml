@@ -4,8 +4,8 @@
   <ShortName>VRChat Creator Companion</ShortName>
   <Description>Search VRChat Creator Companion</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://vrchat-community.github.io/vpm-package-maker/images/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://vrchat-community.github.io/vpm-package-maker/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://vrchat-community.github.io/vpm-package-maker/opensearch.xml" />
-  <moz:SearchForm>https://vrchat-community.github.io/vpm-package-maker/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://vrchat-community.github.io/ /vpm-package-maker/images/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://vrchat-community.github.io/ /vpm-package-maker/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://vrchat-community.github.io/ /vpm-package-maker/opensearch.xml" />
+  <moz:SearchForm>https://vrchat-community.github.io/ /vpm-package-maker/</moz:SearchForm>
 </OpenSearchDescription>

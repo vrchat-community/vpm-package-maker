@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcreator_companion_docs=self.webpackChunkcreator_companion_docs||[]).push([[659],{1555:function(o){o.exports=JSON.parse('{"permalink":"/news","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
