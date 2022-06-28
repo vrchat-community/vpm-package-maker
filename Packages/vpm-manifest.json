@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "com.vrchat.udonsharp": {
+      "version": "1.0.1",
+      "packageUrl": "https://vpm.directus.app/assets/40daf980-a37c-4691-8c72-b8ab8415bb6f?download",
+      "repoUrl": "https://vpm.directus.app/assets/53e9594f-1773-4bac-9c0f-81be5980bac9?download"
+    },
+    "com.vrchat.clientsim": {
+      "version": "1.1.4",
+      "packageUrl": "https://vpm.directus.app/assets/0d9c6ce2-c67c-4644-97b1-a0491e7a7dfd?download",
+      "repoUrl": "https://vpm.directus.app/assets/53e9594f-1773-4bac-9c0f-81be5980bac9?download"
+    }
+  },
+  "locked": {
+    "com.vrchat.udonsharp": {
+      "version": "1.0.1",
+      "packageUrl": "https://vpm.directus.app/assets/40daf980-a37c-4691-8c72-b8ab8415bb6f?download",
+      "dependencies": {
+        "com.vrchat.base": "3.1.0",
+        "com.vrchat.worlds": "3.1.0"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.1.0",
+      "packageUrl": "https://vpm.directus.app/assets/431037a9-3a90-473d-abfe-2af34a60705e?download"
+    },
+    "com.vrchat.worlds": {
+      "version": "3.1.0",
+      "packageUrl": "https://vpm.directus.app/assets/b507cfa1-c5cd-4341-a20d-ddfbb2c31451?download",
+      "dependencies": {
+        "com.vrchat.base": "3.1.0"
+      }
+    },
+    "com.vrchat.clientsim": {
+      "version": "1.1.4",
+      "packageUrl": "https://vpm.directus.app/assets/0d9c6ce2-c67c-4644-97b1-a0491e7a7dfd?download",
+      "dependencies": {
+        "com.vrchat.worlds": "3.1.0"
+      }
+    }
+  }
+}
