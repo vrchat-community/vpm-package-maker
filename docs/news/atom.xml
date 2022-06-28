@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vrchat-community.github.io/ /vpm-package-maker/news</id>
+    <id>https://vrchat-community.github.io/ /news</id>
     <title>VRChat Creator Companion Blog</title>
     <updated>2022-06-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vrchat-community.github.io/ /vpm-package-maker/news"/>
+    <link rel="alternate" href="https://vrchat-community.github.io/ /news"/>
     <subtitle>VRChat Creator Companion Blog</subtitle>
-    <icon>https://vrchat-community.github.io/ /vpm-package-maker/images/favicon.ico</icon>
+    <icon>https://vrchat-community.github.io/ /images/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Release 0.2.7]]></title>
         <id>release-0.2.7</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.7"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.7"/>
         <updated>2022-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>
@@ -22,7 +22,7 @@
     <entry>
         <title type="html"><![CDATA[Release 0.2.6]]></title>
         <id>release-0.2.6</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.6"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.6"/>
         <updated>2022-06-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>
@@ -34,7 +34,7 @@
     <entry>
         <title type="html"><![CDATA[Release 0.2.5]]></title>
         <id>release-0.2.5</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.5"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.5"/>
         <updated>2022-06-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>
@@ -46,7 +46,7 @@
     <entry>
         <title type="html"><![CDATA[Release 0.2.3]]></title>
         <id>release-0.2.3</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.3"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.3"/>
         <updated>2022-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>
@@ -58,7 +58,7 @@
     <entry>
         <title type="html"><![CDATA[Release 0.2.4]]></title>
         <id>release-0.2.4</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.4"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.4"/>
         <updated>2022-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>
@@ -70,7 +70,7 @@
     <entry>
         <title type="html"><![CDATA[Release 0.2.2]]></title>
         <id>release-0.2.2</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.2"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.2"/>
         <updated>2022-05-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>
@@ -82,7 +82,7 @@
     <entry>
         <title type="html"><![CDATA[Release 0.2.0]]></title>
         <id>release-0.2.0</id>
-        <link href="https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.0"/>
+        <link href="https://vrchat-community.github.io/ /news/release-0.2.0"/>
         <updated>2022-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Summary]]></summary>
         <author>

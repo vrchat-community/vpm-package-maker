@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcreator_companion_docs=self.webpackChunkcreator_companion_docs||[]).push([[155],{7621:function(e){e.exports=JSON.parse('{"permalink":" /vpm-package-maker/news","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

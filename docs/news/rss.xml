@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>VRChat Creator Companion Blog</title>
-        <link>https://vrchat-community.github.io/ /vpm-package-maker/news</link>
+        <link>https://vrchat-community.github.io/ /news</link>
         <description>VRChat Creator Companion Blog</description>
         <lastBuildDate>Fri, 24 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Release 0.2.7]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.7</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.7</link>
             <guid>release-0.2.7</guid>
             <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
@@ -18,7 +18,7 @@
         </item>
         <item>
             <title><![CDATA[Release 0.2.6]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.6</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.6</link>
             <guid>release-0.2.6</guid>
             <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Release 0.2.5]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.5</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.5</link>
             <guid>release-0.2.5</guid>
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
@@ -34,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Release 0.2.3]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.3</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.3</link>
             <guid>release-0.2.3</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
@@ -42,7 +42,7 @@
         </item>
         <item>
             <title><![CDATA[Release 0.2.4]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.4</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.4</link>
             <guid>release-0.2.4</guid>
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
@@ -50,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Release 0.2.2]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.2</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.2</link>
             <guid>release-0.2.2</guid>
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
@@ -58,7 +58,7 @@
         </item>
         <item>
             <title><![CDATA[Release 0.2.0]]></title>
-            <link>https://vrchat-community.github.io/ /vpm-package-maker/news/release-0.2.0</link>
+            <link>https://vrchat-community.github.io/ /news/release-0.2.0</link>
             <guid>release-0.2.0</guid>
             <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Summary]]></description>
