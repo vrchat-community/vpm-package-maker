@@ -7,7 +7,6 @@ using UnityEditor;
 using UnityEditor.UIElements;
 using UnityEngine;
 using UnityEngine.UIElements;
-using VRC.Utilities.Packages;
 
 namespace VRC.PackageManagement.PackageMaker
 {
@@ -276,10 +275,10 @@ namespace VRC.PackageManagement.PackageMaker
             switch (_windowData.relatedPackage)
             {
                 case VRCPackageEnum.Avatars:
-                    packageType = VRCPackageNames.AVATARS;
+                    packageType = "com.vrchat.avatars";
                     break;
                 case VRCPackageEnum.Base:
-                    packageType = VRCPackageNames.BASE;
+                    packageType = "com.vrchat.base";
                     break;
                 case VRCPackageEnum.Worlds:
                     packageType = "com.vrchat.clientsim"; // we want ClientSim too, need to specify that for now
