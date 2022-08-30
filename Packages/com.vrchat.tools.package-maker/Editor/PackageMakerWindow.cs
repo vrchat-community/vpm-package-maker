@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text.RegularExpressions;
 using UnityEditor;
 using UnityEditor.UIElements;
@@ -137,7 +138,17 @@ namespace VRC.PackageManagement.PackageMaker
                 Directory.CreateDirectory(newPackageFolderPath);
                 var fullTargetAssetFolder = Path.Combine(_projectDir, _windowData.targetAssetFolder);
                 DoMigration(fullTargetAssetFolder, newPackageFolderPath);
+                ForceRefresh();
             }
+        }
+        
+        public static void ForceRefresh ()
+        {
+            MethodInfo method = typeof( UnityEditor.PackageManager.Client ).GetMethod( "Resolve", BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.DeclaredOnly );
+            if( method != null )
+                method.Invoke( null, null );
+
+            AssetDatabase.Refresh();
         }
 
         private VisualElement CreatePackageIDElement()

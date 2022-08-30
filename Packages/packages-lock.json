@@ -80,6 +80,14 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "file:com.vrchat.core.vpm-resolver",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.2"
+      }
+    },
     "com.vrchat.tools.package-maker": {
       "version": "file:com.vrchat.tools.package-maker",
       "depth": 0,
